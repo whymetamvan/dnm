@@ -1,1 +1,10 @@
-TEST
+Fairy
+3514;Holy Little Angel
+3512;Surpassing Lubinat
+
+Fairy Essence
+Max Butuh 19 item untuk Advance Upgrade
+4054;Holy Little Angel Essence
+4052;Surpassing Lubinat Essence
+
+
