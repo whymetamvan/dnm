@@ -26,6 +26,20 @@ Jade List:
 1099912;Lv. 12 ATK Element Jade
 
 
+Wings L:
+12003;Night Fall Sky Wings
+12004;Night Fall Sky Tail
+12005;Night Fall Sky Tattoo
+12149;Void Heart Wings
+12150;Void Heart Tail
+12151;Void Heart Tattoo
+12012;Ghost Venom Wings
+12013;Ghost Venom Tail
+12014;Ghost Venom Tatoo
+
+
+
+
 Mount L List:
 1508;Red Skin Golden Horn Dragon Redeeming Card
 1519;Holy Pegasus Redeeming Card
