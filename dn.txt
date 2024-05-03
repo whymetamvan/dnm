@@ -7,4 +7,11 @@ Max Butuh 19 item untuk Advance Upgrade
 4054;Holy Little Angel Essence
 4052;Surpassing Lubinat Essence
 
+Combine Jade SS
+1000212;Lv. 12 Gust Jade
+1000112;Lv. 12 Giant Bear Jade
+1099912;Lv. 12 ATK Element Jade
+1011112;Lv. 12 Cruelty Jade
+1000512;Lv. 12 All-around Jade
+1013011;Lv. 12 DEF Element Jade
 
