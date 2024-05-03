@@ -37,7 +37,15 @@ Wings L:
 12013;Ghost Venom Tail
 12014;Ghost Venom Tatoo
 
-
+Costume Grade L :
+Lubinat Set
+14662;Lubinat Hat (Permanent)
+14663;Lubinat Tunic (Permanent)
+14664;Lubinat Trousers (Permanent)
+14665;Lubinat Gloves (Permanent)
+14666;Lubinat Shoes (Permanent)
+14667;Lubinat Long Sword (Permanent)
+14668;Lubinat Wristguard (Permanent)
 
 
 Mount L List:
