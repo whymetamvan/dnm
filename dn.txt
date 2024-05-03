@@ -7,6 +7,13 @@ Max Butuh 19 item untuk Advance Upgrade
 4054;Holy Little Angel Essence
 4052;Surpassing Lubinat Essence
 
+Fairy Accesoriss
+1304020;Perfect Green Crystal Cloak(Customized P/MATK)
+1304021;Perfect Green Crystal Badge(Customized P/MATK)
+1304022;Perfect Green Crystal Orb(Customized P/MATK)
+
+
+
 Jade List:
 1000112;Lv. 12 Giant Bear Jade
 1000212;Lv. 12 Gust Jade
