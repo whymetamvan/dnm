@@ -60,3 +60,14 @@ Mount L List:
 1519;Holy Pegasus Redeeming Card
 1515;Moon Dream Trading Card L
 
+Heraldry Grade S P/M Attack List :
+2955001;Superb Emblem of Giant Bear (Customized Attack)
+2955002;Superb Emblem of Gust (Customized Attack)
+2955003;Superb Emblem of Wisdom (Customized Attack)
+2955004;Superb Emblem of Health (Customized Attack)
+2955011;Superb Emblem of Destruction (Customized Attack)
+2955012;Superb Emblem of Iron Curtain (Customized Attack)
+2955013;Superb Emblem of Life (Customized Attack)
+2955021;Superb Emblem of Magic (Customized Attack)
+2955022;Superb Emblem of Veil (Customized Attack)
+2955031;Superb Emblem of Crit (Customized Attack)
